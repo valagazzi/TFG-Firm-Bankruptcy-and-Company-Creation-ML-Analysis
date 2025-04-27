@@ -1,0 +1,2 @@
+# TFG-Firm-Bankruptcy-and-Company-Creation-ML-Analysis
+This is the repository to display the code for my TFG: Analyzing the Endogenous and Exogenous Causes of Firm Creation/Destruction Using Machine Learning.Analyzing the Endogenous and Exogenous Causes of Firm Creation/Destruction Using Machine Learning. For the Autonomous University of Barcelona. By Valentino Agazzi Mandozzi. Tutor: Antoine Zerbini.
